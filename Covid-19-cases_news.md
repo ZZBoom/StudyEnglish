@@ -9,6 +9,7 @@ The number of new Covid-19 cases是主语，declined是谓语，last week 是时
 
 生词：
 | New words | paraphrase ｜
+| --------  |  --------  |
 | decline   | v. 减少;下降;衰弱;衰退; |
 | in the region | 在该地区 |
 | climb | v. 攀登;爬;(尤指吃力地向某处)爬;|
