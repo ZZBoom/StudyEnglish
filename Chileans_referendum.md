@@ -3,7 +3,7 @@
 
 原文：
 Chileans voted overwhelmingly in a landmark referendum Sunday to replace their dictatorship-era constitution, long seen as underpinning the nation’s glaring economic and social inequalities.
-智利人周日在具有里程碑意义的全民公决中以压倒性多数票通过新宪法，以取代其独裁时代的宪法，长期以来，该宪法一直支撑着该国明显的经济和社会不平等现象。 
+智利人周日在具有里程碑意义的全民公决中以压倒性多数票通过新宪法，以取代其独裁时代的宪法，长期以来，该宪法一直支撑着该国明显的经济和社会不平等现象(长期以来被视为显著的经济和社会不平等的基础)。 
 
 结构分析：
 Chileans是主语，voted是谓语（过去一般时）， overwhelmingly是副词作状语，in a landmark referendum 是状语，Sunday是时间状语， to replace their dictatorship-era constitution是不定式词组作目的状语, long seen as underpinning the nation’s glaring economic and social inequalities是状语。
