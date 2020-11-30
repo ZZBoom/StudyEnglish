@@ -23,6 +23,8 @@ fogotten 词汇:
 | sanction | n. 制裁 |
 | waiver | n. (对合法权利或要求的)弃权;   弃权声明;   |
 | sanctions waiver | 豁免制裁 |
+| combative | adj.好战的;好斗的;好争论的|
+| contrast | n. 明显的差异;对比;|
 
 fogotten 文章：
 Chileans voted overwhelmingly in a landmark referendum Sunday to replace their dictatorship-era constitution, long seen as underpinning the nation’s glaring economic and social inequalities.

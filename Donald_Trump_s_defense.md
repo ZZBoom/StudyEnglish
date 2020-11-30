@@ -14,7 +14,7 @@ President是主语，Donald Trump是同位语，delivered是谓语，a combative
 | deliver(ed) | vt. 宣布;传送;|
 | combative | adj.好战的;好斗的;好争论的|
 | defense | n. 防卫，防护；辩护|
-| comtrast | n. 明显的差异;对比;|
+| contrast | n. 明显的差异;对比;|
 | in style |  别具风格地，时髦地，很成功地|
 | rival | adj. 竞争的 |
 | town hall | n. 市政厅|
